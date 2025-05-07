@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: monster-treant
+  x-cortex-tag: monster-treant
+x-cortex-custom-data:
+  alignment: chaotic-good
+  source: dnd-5e
+x-cortex-owners:
+- email: bestiary@dnd.com
+x-cortex-tag: monster-treant
+x-cortex-type: monster
